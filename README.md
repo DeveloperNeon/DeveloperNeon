@@ -6,7 +6,7 @@
 
 - All of my projects are available at [https://github.com/weliketocodestuff](https://github.com/weliketocodestuff)
 
-<h3 align="left">Connect with me: **Neon#2928** on discord</h3>
+<h3 align="left">Connect with me: Neon#2928 on discord</h3>
 <p align="left">
 </p>
 
