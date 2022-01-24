@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neon</h1>
 <h3 align="center">Im a NodeJS software engineer, Living in the US</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developerneon" alt="developerneon" /></a> </p>
 
 - I’m currently working on **some big projects**
 
@@ -19,3 +18,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developerneon&show_icons=true&theme=dark&locale=en" alt="developerneon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerneon&theme=dark" alt="developerneon" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developerneon" alt="developerneon" /></a> </p>
