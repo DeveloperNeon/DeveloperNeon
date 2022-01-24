@@ -2,11 +2,11 @@
 <h3 align="center">Im a NodeJS software engineer, Living in the US</h3>
 
 
-- I’m currently working on **some big projects**
+- I’m currently working on some **big** projects
 
-- 👨‍💻 All of my projects are available at [https://github.com/weliketocodestuff](https://github.com/weliketocodestuff)
+- All of my projects are available at [https://github.com/weliketocodestuff](https://github.com/weliketocodestuff)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: **Neon#2928** on discord</h3>
 <p align="left">
 </p>
 
